@@ -1,9 +1,9 @@
-# Generate Numbers
+# Random Color Generator
 
-Adds 2 numbers for a specific number of times and shows a table of the result
+Click generate to generate a random color and know its red, green, and blue, values
 
-- Repository URL : [generate-numbers](https://github.com/SaMaSaLa/generate-numbers)
-- Demo URL : [Demo](https://samasala.github.io/generate-numbers/)
+- Repository URL : [random-color-generator](https://github.com/SaMaSaLa/random-color-generator)
+- Demo URL : [Demo](https://samasala.github.io/random-color-generator/)
 
 Authors:
 
